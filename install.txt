@@ -1,0 +1,3 @@
+Para instalar el proyecto los pasos a seguir son:
+Clonar el proyecto con "git clone" más la url del proyecto la cual es: https://github.com/romerojudith/jml49.git.
+Realizar un "git pull conexion master" para poder utilizar el proyecto.
